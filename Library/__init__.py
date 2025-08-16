@@ -1,0 +1,1 @@
+from .configReader import read_config, get_locator
